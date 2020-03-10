@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardPostPart2</string>
+    <string name="count">0</string>
+    <string name="countComment">478</string>
+    <string name="countReply">100</string>
+    <string name="geoCoordinatesGM">geo:%s%s</string>
+    <string name="geoAddressGM">geo:?q=%s</string>
+</resources>
